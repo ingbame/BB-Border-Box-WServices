@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BB-Border-Box-WServices", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BB-Border-Box-CoreService", "BB-Border-Box-CoreService\BB-Border-Box-CoreService.csproj", "{1BA02088-B563-44AB-A4D3-57D85E47F98D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BB-Border-Box-EntityService", "BB-Border-Box-EntityService\BB-Border-Box-EntityService.csproj", "{54DA6344-8041-40D3-99BD-1D73B484E075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BB-Border-Box-Test", "BB-Border-Box-Test\BB-Border-Box-Test.csproj", "{96C1ECAC-BDE8-49F3-9AA9-64295FDC0E01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1BA02088-B563-44AB-A4D3-57D85E47F98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BA02088-B563-44AB-A4D3-57D85E47F98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BA02088-B563-44AB-A4D3-57D85E47F98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DA6344-8041-40D3-99BD-1D73B484E075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DA6344-8041-40D3-99BD-1D73B484E075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DA6344-8041-40D3-99BD-1D73B484E075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DA6344-8041-40D3-99BD-1D73B484E075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C1ECAC-BDE8-49F3-9AA9-64295FDC0E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C1ECAC-BDE8-49F3-9AA9-64295FDC0E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C1ECAC-BDE8-49F3-9AA9-64295FDC0E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C1ECAC-BDE8-49F3-9AA9-64295FDC0E01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
